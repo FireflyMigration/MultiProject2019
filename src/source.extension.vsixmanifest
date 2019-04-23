@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MultiVSIX2019.a7361cbe-12e6-4804-a647-e1946586268a" Version="1.0" Language="en-US" Publisher="Firelfy" />
+    <Identity Id="MultiVSIX2019.a7361cbe-12e6-4804-a647-e1946586268a" Version="1.0" Language="en-US" Publisher="Firefly" />
     <DisplayName>Visual Studio Extension Bundle 2019</DisplayName>
-    <Description xml:space="preserve">The easiest way to set up Visual Studio for the ultimate web development experience.</Description>
+    <Description xml:space="preserve">Firefly AddinsFirefly Addins</Description>
     <MoreInfo>https://github.com/FireflyMigration/MultiProject2019</MoreInfo>
     <Tags>extensions, vsix, install</Tags>
   </Metadata>
